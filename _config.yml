@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: (Long Last) Name
+first_name: Rui
+middle_name: 
+last_name: (Lucas) Zhu
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -14,8 +14,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+url:  'https://lucaszhu97.github.io' # the base hostname & protocol for your site
+baseurl: /lucaszhu97.github.io # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -107,7 +107,7 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude: [teaching]
 
 # Plug-ins
 plugins:
