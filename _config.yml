@@ -106,7 +106,7 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: ['_pages/teaching']
+exclude: ['_pages/teaching', '_pages/projects']
 
 # Plug-ins
 plugins:
