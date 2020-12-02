@@ -65,7 +65,7 @@ a, table.table a {
   a {
     color: inherit;
     &:hover {
-      color: var(--global-theme-color);
+      color: $scarlet-color-hover;
       text-decoration: none;
     }
   }
@@ -76,9 +76,10 @@ a, table.table a {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 6px solid $scarlet-color;
   opacity: 0.95;
-  background-color: var(--global-bg-color);
+  background-color: var(--nav-bar-bg-color);
+  height: 50px;
 }
 .navbar.navbar-light {
   // Remove link decoration
