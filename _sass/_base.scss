@@ -4,16 +4,6 @@
 
 // Typography
 
-.affiliation {
-  color: var(--global-text-color);
-  &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
-  }
-  &:hover:after {
-    width: 100%;
-  }
-}
 
 a, table.table a {
   color: var(--global-theme-color);
@@ -54,6 +44,7 @@ a, table.table a {
     margin-top: 5px;
     font-family: monospace;
     font-size: 1.2rem;
+    text-align: center;
     p {
       display: inline-block;
       margin: 0;
@@ -71,10 +62,10 @@ a, table.table a {
 }
 
 .post-description {
-  margin-bottom: 2rem;
-  font-size: 0.875rem;
+  margin-bottom: 1.5rem;
+  font-size: 14px;
   a {
-    color: inherit;
+    color: $osu-grey;
     &:hover {
       color: $scarlet-color-hover;
       text-decoration: none;

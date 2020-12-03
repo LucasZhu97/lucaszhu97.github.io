@@ -51,7 +51,7 @@ blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
 contact_note: >
-  Contact me via my email.
+  Contact me via email.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -60,7 +60,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: Blog  # your blog must have a name for it to show up in the nav bar
-blog_description: More like some random rants
+blog_description: more like some random rants. views my own.
 permalink: /blog/:year/:title/
 
 # Pagination
