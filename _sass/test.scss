@@ -1,0 +1,74 @@
+.navbar {
+  box-shadow: none;
+  border-bottom: 6px solid $scarlet-color;
+  opacity: 0.95;
+  background-color: var(--nav-bar-bg-color);
+  height: 50px;
+}
+.navbar.navbar-light {
+  // Remove link decoration
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  .navbar-brand {
+    color: var(--global-text-color);
+  }
+  .navbar-nav .nav-item .nav-link {
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+  .navbar-nav .nav-item.active>.nav-link {
+      background-color: inherit;
+      font-weight: bolder;
+      color: var(--global-theme-color);
+      &:hover {
+        color: var(--global-hover-color);
+      }
+  }
+  .contact-icon {
+    font-size: 2rem;
+    a {
+      &:hover {
+        color: var(--global-hover-color);
+      }
+    }
+  }
+}
+
+.navbar-toggler {
+  .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: $grey-color-dark;
+    border-radius: 1px;
+    margin-bottom: 4px;
+    transition: all 0.2s;
+  }
+  .top-bar {
+    transform: rotate(45deg);
+    transform-origin: 10% 10%;
+  }
+  .middle-bar {
+    opacity: 0;
+  }
+  .bottom-bar {
+    transform: rotate(-45deg);
+    transform-origin: 10% 90%;
+  }
+}
+
+.navbar-toggler.collapsed {
+  .top-bar {
+    transform: rotate(0);
+  }
+  .middle-bar {
+    opacity: 1;
+  }
+  .bottom-bar {
+    transform: rotate(0);
+  }
+}

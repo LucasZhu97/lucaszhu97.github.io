@@ -4,6 +4,17 @@
 
 // Typography
 
+.affiliation {
+  color: var(--global-text-color);
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+  }
+  &:hover:after {
+    width: 100%;
+  }
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -79,7 +90,7 @@ a, table.table a {
   border-bottom: 6px solid $scarlet-color;
   opacity: 0.95;
   background-color: var(--nav-bar-bg-color);
-  height: 50px;
+  min-height: 50px;
 }
 .navbar.navbar-light {
   // Remove link decoration
@@ -200,9 +211,9 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid $grey-color-light;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 0.8rem;
 }
 
 
