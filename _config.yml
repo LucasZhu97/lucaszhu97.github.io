@@ -68,7 +68,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: Lucas # put your disqus shortname
+disqus_shortname: LucasZhu # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
