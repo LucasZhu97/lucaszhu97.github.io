@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p style="font-size:15px">My Lovely Girlfriend & Me</p>
-    <p style="font-size:12px">On our flight to China to meet our familiy who were greatly affected by COVID-19.</p>
+    <p style="font-size:12px">On our flight to China to meet our family who were greatly affected by COVID-19.</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
