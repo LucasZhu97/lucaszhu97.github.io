@@ -104,7 +104,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages','_posts']
 exclude: ['_pages/teaching', '_pages/projects','_pages/publications']
 
 # Plug-ins
