@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   address: >
     <p style="font-size:15px">My Lovely Girlfriend & Me</p>
-    <p style="font-size:12px">On our flight to China to meet our family who were greatly affected by COVID-19.</p>
+    <p style="font-size:12px">On our flight to China to meet our family who were greatly affected by COVID-19. Get Vaccinated!</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a senior majoring Computer Engineering at [The Ohio State University](https://www.osu.edu/). I'm currently working on projects related to [Coverity](https://en.wikipedia.org/wiki/Coverity), a leading static analysis tool, at [Synopsys](https://www.synopsys.com/).
+I'm a senior majoring Computer Engineering at [The Ohio State University](https://www.osu.edu/). I'm currently advised by Professor. [Yang Wang](http://web.cse.ohio-state.edu/~wang.7564/), working a study of performance gap under popular benchmarks. Previsouly I worked as a Software Security Intern on projects related to [Coverity](https://en.wikipedia.org/wiki/Coverity), a leading static analysis tool, at [Synopsys](https://www.synopsys.com/).
 
 ##### **Research Interests**
-My primary research interests lie in the broad fields of computer systems and architectures. I am attracted by the design challenges spawned by demanding computational needs at the age of artificial intelligence. My goal is to design and build generic and efficient systems across the layers of current abstractions between user and software stack.
+My primary research interests lie in the broad fields of computer systems and Security.

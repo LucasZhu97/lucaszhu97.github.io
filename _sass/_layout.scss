@@ -31,16 +31,7 @@
 
 // TODO: redefine content layout.
 
-.test {
-  color: $grey-color-light;
-  &:hover {
-    color: var(--global-theme-color);
-    text-decoration: none;
-  }
-  &:hover:after {
-    width: 100%;
-  }
-}
+
 /******************************************************************************
  * Publications
  ******************************************************************************/
