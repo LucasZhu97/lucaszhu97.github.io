@@ -6,10 +6,10 @@ description: <a href="https://ece.osu.edu/">Department of Electrical & Computer 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic3.jpg
   address: >
-    <p style="font-size:15px">My Lovely Girlfriend & Me</p>
-    <p style="font-size:12px">On our flight to China to meet our family who were greatly affected by COVID-19. Get Vaccinated!</p>
+    <p style="font-size:15px">At a beach somewhere in California</p>
+    <p style="font-size:12px">Missed the days when we could travel. Get Vaccinated!</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
