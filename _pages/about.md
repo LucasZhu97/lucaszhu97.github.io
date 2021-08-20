@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a senior majoring in Computer Engineering at [The Ohio State University](https://www.osu.edu/). I'm currently advised by Professor. [Yang Wang](http://web.cse.ohio-state.edu/~wang.7564/), working on database systems performance, practically in memory consumption. Previsouly I worked as a Software Security Intern on projects related to [Coverity](https://en.wikipedia.org/wiki/Coverity), a leading static analysis tool, at [Synopsys, Inc](https://www.synopsys.com/).
+I'm a master student majoring in Computer Science at [Purdue University](https://www.cs.purdue.edu/). I graduated from [The Ohio State University](https://www.osu.edu/) with a B.S. degree in Computer Engineering. Previsouly, I was advised by Professor. [Yang Wang](http://web.cse.ohio-state.edu/~wang.7564/), working on database systems performance. I worked as a Software Security Intern on projects related to [Coverity](https://en.wikipedia.org/wiki/Coverity), a leading static analysis tool, at [Synopsys, Inc](https://www.synopsys.com/).
 
 ##### **Research Interests**
 My primary research interests lie in the broad fields of Computer Systems and Security.
