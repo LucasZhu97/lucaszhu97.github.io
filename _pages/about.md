@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://ece.osu.edu/">Department of Electrical & Computer Engineering</a> • <a href="https://www.osu.edu/">The Ohio State University</a>
+description: <a href="https://ece.osu.edu/">Department of Computer Science</a> • <a href="https://www.osu.edu/">Purdue University</a>
 
 profile:
   align: right
