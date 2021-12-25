@@ -1,0 +1,45 @@
+baseurl                  = "https://lucaszhu97.github.io"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Lucas Zhu"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "custom.png"
+    homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
+
+# Metadata for Open Graph and Twitter
+    description          = "A new Hugo site."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Call me Sam"
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = ""
+    type    = "video/mp4"
+    poster  = "/81488027_xl.jpg"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "about"
+
+[[params.mainMenu]]
+    link = "posts"
+    text = "post"
+
+[[params.mainMenu]]
+    link = "gallery"
+    text = "gallery"
+
+[[params.mainMenu]]
+    link = "recent"
+    text = "recent"
+
+[imaging]
+    quality = 100
